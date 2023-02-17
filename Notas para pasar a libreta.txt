@@ -1,0 +1,24 @@
+
+
+Instalar si o si para utilizar mui en react o llamado material UI
+
+yarn add @mui/material @emotion/react @emotion/styled
+
+
+Después compiar  el codigo de roboto en el index
+
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+/>
+
+
+
+Después instalar los iconos por consola
+
+yarn add @mui/icons-material
+
+
+Instalar firebase administrador de bases de datos no realcionales
+
+yarn add firebase
